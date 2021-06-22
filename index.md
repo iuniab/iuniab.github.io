@@ -5,7 +5,8 @@
 ### Python Projects 
 
 [Project 1 - Linear and Logistic Regression](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="linear_regr.png?raw=true"/>
+<img src="logistic_regr.png?raw=true"/>
 
 ---
 [Project 2 - SVMs](/pdf/sample_presentation.pdf)
