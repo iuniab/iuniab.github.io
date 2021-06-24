@@ -44,8 +44,10 @@
 
 ### R Projects
 
-- [Supervised learning: regression analysis](http://example.com/)
-- [Unsupervised learning: mixture of Gaussians](http://example.com/)
+[Supervised learning: regression analysis](https://github.com/iuniab/Regression-analysis-in-R)
+
+---
+[Unsupervised learning: mixture of Gaussians](https://github.com/iuniab/Mixture-of-factors)
 
 ---
 
