@@ -9,16 +9,13 @@
 <img src="logistic_regr.png?raw=true"/>
 
 ---
-[Project 2 - SVMs](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 - SVMs](https://github.com/iuniab/Support-Vector-Machines)
+<img src="svm_graph.png?raw=true"/>
 
 ---
-[](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Ensemble Methods: Adaboost](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ensemble Methods: Adaboost](https://github.com/iuniab/Ensemble-Methods-Adaboost)
+<img src="adab_posterior.png?raw=true"/>
+<img src="adab_approx.png?raw=true"/>
 
 ---
 [Neural Network Classifier](http://example.com/)
@@ -29,6 +26,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Dimensionality reduction and PCA]()
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 
 ### R Projects
 
