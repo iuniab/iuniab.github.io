@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-[Project 1 - Linear and Logistic Regression](/sample_page)
+[Classification using linear vs. logistic regression](https://github.com/iuniab/Linear-vs-Logistic-Regression)
 <img src="linear_regr.png?raw=true"/>
 <img src="logistic_regr.png?raw=true"/>
 
@@ -13,7 +13,19 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 - Ensemble Methods](http://example.com/)
+[](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Ensemble Methods: Adaboost](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Neural Network Classifier](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Training a CNN for handwritten digit recognition](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
