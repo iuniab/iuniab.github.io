@@ -5,8 +5,8 @@
 ### Python Projects 
 
 [Classification using linear vs. logistic regression](https://github.com/iuniab/Linear-vs-Logistic-Regression)
-<img src="linear_regr.png?raw=true"/>
-<img src="logistic_regr.png?raw=true"/>
+<img src="linear_regr.png?raw=true" width="100" height="100"/>
+<img src="logistic_regr.png?raw=true" width="100" height="100"/>
 
 ---
 [Support vector machines](https://github.com/iuniab/Support-Vector-Machines)
