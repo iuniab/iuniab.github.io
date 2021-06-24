@@ -6,7 +6,7 @@
 
 [Classification using linear vs. logistic regression](https://github.com/iuniab/Linear-vs-Logistic-Regression/)
 <img src="linear_regr.png?raw=true" width="400" height="400"/>
-<img src="logistic_regr.png?raw=true" width="350" height="400"/>
+<img src="logistic_regr.png?raw=true" width="380" height="400"/>
 
 ---
 [Support vector machines](https://github.com/iuniab/Support-Vector-Machines)
@@ -29,7 +29,7 @@
 
 ---
 [Training a CNN for handwritten digit recognition](https://github.com/iuniab/Digit-recognition-using-CNNs)
-<img src="CNN_digits.png?raw=true" height="300"/>
+<img src="CNN_digits.png?raw=true"/>
 
 ---
 [Mixture of Gaussians](https://github.com/iuniab/Mixture-of-Gaussians)
