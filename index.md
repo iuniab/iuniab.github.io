@@ -29,7 +29,7 @@
 
 ---
 [Training a CNN for handwritten digit recognition](https://github.com/iuniab/Digit-recognition-using-CNNs)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="CNN_digits.png?raw=true"/>
 
 ---
 [Mixture of Gaussians](https://github.com/iuniab/Mixture-of-Gaussians)
