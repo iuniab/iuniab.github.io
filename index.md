@@ -9,16 +9,21 @@
 <img src="logistic_regr.png?raw=true"/>
 
 ---
-[Project 2 - SVMs](https://github.com/iuniab/Support-Vector-Machines)
+[Support vector machines](https://github.com/iuniab/Support-Vector-Machines)
 <img src="svm_graph.png?raw=true"/>
 
 ---
-[Ensemble Methods: Adaboost](https://github.com/iuniab/Ensemble-Methods-Adaboost)
+[SVMs: linear vs non-linear kernels](https://github.com/iuniab/SVMs-linear-vs-non-linear-kernels)
+<img src="kernels_linear.png?raw=true"/>
+<img src="kernels_non-linear.png?raw=true"/>
+
+---
+[Ensemble methods: Adaboost](https://github.com/iuniab/Ensemble-Methods-Adaboost)
 <img src="adab_posterior.png?raw=true"/>
 <img src="adab_approx.png?raw=true"/>
 
 ---
-[Neural Network Classifier](http://example.com/)
+[K-means and dimensionality reduction algorithms](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -26,7 +31,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Dimensionality reduction and PCA]()
+[Mixture of Gaussians]()
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Sentiment analysis on movie reviews: bidirectional LSTM vs BERT]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -34,11 +43,8 @@
 
 ### R Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Supervised learning: regression analysis](http://example.com/)
+- [Unsupervised learning: mixture of Gaussians](http://example.com/)
 
 ---
 
