@@ -33,7 +33,7 @@
 
 ---
 [Mixture of Gaussians](https://github.com/iuniab/Mixture-of-Gaussians)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="MOG_posterior.png?raw=true"/>
 
 ---
 [Sentiment analysis on movie reviews: bidirectional LSTM vs BERT](https://github.com/iuniab/Sentiment-analysis-on-movie-reviews)
