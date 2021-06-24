@@ -5,8 +5,8 @@
 ### Python Projects 
 
 [Classification using linear vs. logistic regression](https://github.com/iuniab/Linear-vs-Logistic-Regression/)
-<img src="linear_regr.png?raw=true" width="500" height="500"/>
-<img src="logistic_regr.png?raw=true" width="500" height="500"/>
+<img src="linear_regr.png?raw=true" width="400" height="400"/>
+<img src="logistic_regr.png?raw=true" width="350" height="400"/>
 
 ---
 [Support vector machines](https://github.com/iuniab/Support-Vector-Machines)
@@ -14,30 +14,30 @@
 
 ---
 [SVMs: linear vs non-linear kernels](https://github.com/iuniab/SVMs-linear-vs-non-linear-kernels)
-<img src="kernels_linear.png?raw=true"/>
-<img src="kernels_non-linear.png?raw=true"/>
+<img src="kernels_linear.png?raw=true" width="400" height="400"/>
+<img src="kernels_non-linear.png?raw=true" width="400" height="400"/>
 
 ---
 [Ensemble methods: Adaboost](https://github.com/iuniab/Ensemble-Methods-Adaboost)
-<img src="adab_posterior.png?raw=true"/>
+<img src="adab_posterior.png?raw=true" width="400" height="400"/>
 <img src="adab_approx.png?raw=true"/>
 
 ---
 [K-means and dimensionality reduction algorithms](https://github.com/iuniab/K-means-and-PCA-algorithms)
-<img src="MNIST_data.png?raw=true"/>
-<img src="MNIST_pca.png?raw=true"/>
+<img src="MNIST_data.png?raw=true" width="400"/>
+<img src="MNIST_pca.png?raw=true" width="400"/>
 
 ---
 [Training a CNN for handwritten digit recognition](https://github.com/iuniab/Digit-recognition-using-CNNs)
-<img src="CNN_digits.png?raw=true"/>
+<img src="CNN_digits.png?raw=true" height="300"/>
 
 ---
 [Mixture of Gaussians](https://github.com/iuniab/Mixture-of-Gaussians)
-<img src="MOG_posterior.png?raw=true"/>
+<img src="MOG_posterior.png?raw=true" height="300"/>
 
 ---
 [Sentiment analysis on movie reviews: bidirectional LSTM vs BERT](https://github.com/iuniab/Sentiment-analysis-on-movie-reviews)
-<img src="Rotten_Tomatoes_2.png?raw=true"/>
+<img src="Rotten_Tomatoes_2.png?raw=true" width="300" height="300"/>
 
 ---
 
