@@ -24,7 +24,8 @@
 
 ---
 [K-means and dimensionality reduction algorithms](https://github.com/iuniab/K-means-and-PCA-algorithms)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="MNIST_data.png?raw=true"/>
+<img src="MNIST_pca.png?raw=true"/>
 
 ---
 [Training a CNN for handwritten digit recognition](https://github.com/iuniab/Digit-recognition-using-CNNs)
