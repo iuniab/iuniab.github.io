@@ -23,20 +23,20 @@
 <img src="adab_approx.png?raw=true"/>
 
 ---
-[K-means and dimensionality reduction algorithms](http://example.com/)
+[K-means and dimensionality reduction algorithms](https://github.com/iuniab/K-means-and-PCA-algorithms)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Training a CNN for handwritten digit recognition](http://example.com/)
+[Training a CNN for handwritten digit recognition](https://github.com/iuniab/Digit-recognition-using-CNNs)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Mixture of Gaussians]()
+[Mixture of Gaussians](https://github.com/iuniab/Mixture-of-Gaussians)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sentiment analysis on movie reviews: bidirectional LSTM vs BERT]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment analysis on movie reviews: bidirectional LSTM vs BERT](https://github.com/iuniab/Sentiment-analysis-on-movie-reviews)
+<img src="Rotten_Tomatoes_2.png?raw=true"/>
 
 ---
 
